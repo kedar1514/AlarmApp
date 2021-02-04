@@ -1,0 +1,4 @@
+#Thu Feb 04 22:27:30 IST 2021
+base.0=C\:\\Users\\KEDAR\\Desktop\\alarmi\\SimpleAlarmClock-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
